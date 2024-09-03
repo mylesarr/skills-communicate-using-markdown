@@ -7,3 +7,7 @@
 ```python
 if True: print("False")
 ```
+# Now let's make a task list!!
+- [x] First objective
+- [ ] Second Objective
+- [ ] Finish
